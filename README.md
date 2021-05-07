@@ -28,15 +28,15 @@
 
 - 🌱 I’m currently learning **UX Design**
 
-- 👨‍💻 All of my projects are available at [https://www.kelvinsanchez15.com/](https://www.kelvinsanchez15.com/)
+- 👨‍💻 All of my projects are available at [www.kelvinsanchez15.com](https://www.kelvinsanchez15.com/)
 
 - 📝 I regularly write articles on
-[https://www.freecodecamp.org/espanol/news/author/kelvin/](https://www.freecodecamp.org/espanol/news/author/kelvin/)
+[www.freecodecamp.org/espanol/news/author/kelvin/](https://www.freecodecamp.org/espanol/news/author/kelvin/)
 
-- 💬 Ask me about **React, Next, Node**
+- 💬 Ask me about **React, Next & Node**
 
-- 📄 Know about my experiences
-[https://www.kelvinsanchez15.com/resume/resume-en.pdf](https://www.kelvinsanchez15.com/resume/resume-en.pdf)
+- 📄 Know about my work experience with my 
+[resume](https://www.kelvinsanchez15.com/resume/resume-en.pdf)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
