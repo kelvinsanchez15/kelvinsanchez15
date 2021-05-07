@@ -24,7 +24,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on [alacartadigital](https://www.alacartadigital.es/)
+- 🔭 I’m currently working at [alacartadigital](https://www.alacartadigital.es/)
 
 - 👨‍💻 All of my projects are available at [www.kelvinsanchez15.com](https://www.kelvinsanchez15.com/)
 
