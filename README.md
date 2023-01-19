@@ -57,7 +57,7 @@
       alt="react" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" /> 
   </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
@@ -88,11 +88,6 @@
 </p>
 
 <br>
-
-
-<p align="center">&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kelvinsanchez15&show_icons=true&theme=dark&locale=en"
-    alt="kelvinsanchez15" /></p>
 
 <p align="center"><img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinsanchez15&theme=dark" alt="kelvinsanchez15" /></p>
