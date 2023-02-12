@@ -24,7 +24,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working at [Xepelin](https://www.xepelin.com/)
+- 🔭 I’m currently working at [Research Improving People's Lives](https://www.ripl.org/)
 
 - 👨‍💻 All of my projects are available at [www.kelvinsanchez15.com](https://www.kelvinsanchez15.com/)
 
