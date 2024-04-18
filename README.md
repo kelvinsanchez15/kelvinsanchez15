@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Sánchez</h1>
-<h3 align="center">A Senior Front-end Developer passionate about coding, and making client ideas come true.</h3>
+<h3 align="center">A Senior Front-end Engineer passionate about coding, and making client ideas come true.</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/4708484/117501914-bee53600-af4c-11eb-8523-6ace0ea11d3e.png"
